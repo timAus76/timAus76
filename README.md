@@ -9,7 +9,7 @@ Timothy M. is a senior full-stack developer with over 10 years of experience del
 
 <table>
   <tr>
-      <td><img width="450px" align="center" src="https://github.com/TengHoo3/TengHoo3/assets/67228311/84c23ab4-6f6f-4d18-b533-4493c01b289d"/></td>            
+      <td><img width="450px" align="center" src="https://github.com/user-attachments/assets/d9630cc5-57de-43ad-8905-6c43ac2d1430"/></td>            
   </tr>   
 </table>
 
