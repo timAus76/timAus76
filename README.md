@@ -74,9 +74,6 @@ Timothy M. is a senior full-stack developer with over 10 years of experience del
   <a href="https://nextjs.org/" target="_blank" title="Next.js">
     <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" width="50" height="50" />
   </a>
-  <a href="https://storybook.js.org/" target="_blank" title="Storybook">
-    <img src="https://cdn.worldvectorlogo.com/logos/storybook.svg" alt="Storybook" width="50" height="50" />
-  </a>
   <a href="https://mui.com/" target="_blank" title="MUI">
     <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="MUI" width="50" height="50" />
   </a>
