@@ -95,6 +95,6 @@ Timothy M. is a senior full-stack developer with over 10 years of experience del
 <table align="center">
   <tr>
       <td><img  alt="Github Stats" width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=timaus76&show_icons=true&theme=synthwave&include_all_commits=true"/></td>
-      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timaus76&hide=css,html&count_private=true&theme=synthwave&layout=compact"/></td>      
+      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timaus76&hide=css,html&count_private=true&theme=synthwave&layout=compact&&langs_count=8"/></td>      
   </tr>   
 </table>
