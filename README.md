@@ -17,18 +17,80 @@ Timothy M. is a senior full-stack developer with over 10 years of experience del
 
 <h3> Technology Stack </h3>
 <p align="left">
-  <a href="https://www.docker.com/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" alt="docker" width="50" height="50"/> </a>  
-  <a href="https://www.python.org/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="python" width="50" height="50"/> </a>  
-  <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" alt="tensorflow" width="50" height="50"/> </a> 
-  <a href="https://www.postman.com/" target="_blank"> <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" alt="postman" width="50" height="50"/> </a>  
-<a href="https://git-scm.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" alt="git" width="50" height="50"/> </a> 
-<a href="https://bitbucket.org/product" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/6125/6125001.png" alt="bitbucket" width="50" height="50"/> </a> 
-  <a href="https://numpy.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="numpy" width="50" height="50"/> </a> 
-  <a href="https://scikit-learn.org/" target="_blank"> <img src="https://icon2.cleanpng.com/20180805/wpb/kisspng-scikit-learn-python-computer-icons-scikit-image-ma-data-science-ermlab-software-5b67c768b04383.539745841533527912722.jpg" alt="Scikit-Learn" width="50" height="50"/> </a> 
-  <a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="FastAPI" width="50" height="50"/> </a> 
-  <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.pngfind.com/pngs/m/128-1286693_flask-framework-logo-svg-hd-png-download.png" alt="Flask" width="50" height="50"/> </a> 
-  <a href="https://matplotlib.org/" target="_blank"> <img src="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" alt="Matplotlib" width="50" height="50"/> </a> 
+  <a href="https://www.javascript.com/" target="_blank" title="JavaScript">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JavaScript" width="50" height="50" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="TypeScript" width="50" height="50" />
+  </a>
+  <a href="https://nodejs.org/" target="_blank" title="Node.js">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="Node.js" width="50" height="50" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" title="MongoDB">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-3629020-3030245.png" alt="MongoDB" width="50" height="50" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" title="PostgreSQL">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" alt="PostgreSQL" width="50" height="50" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" title="React.js">
+    <img src="https://cdn-icons-png.flaticon.com/512/919/919851.png" alt="React.js" width="50" height="50" />
+  </a>
+  <a href="https://angular.io/" target="_blank" title="Angular">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="Angular" width="50" height="50" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" title="MySQL">
+    <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" alt="MySQL" width="50" height="50" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank" title="Docker">
+    <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" alt="Docker" width="50" height="50" />
+  </a>
+  <a href="https://www.terraform.io/" target="_blank" title="Terraform">
+    <img src="https://cdn-icons-png.flaticon.com/512/906/906362.png" alt="Terraform" width="50" height="50" />
+  </a>
+  <a href="https://github.com/features/actions" target="_blank" title="GitHub Actions">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" alt="GitHub Actions" width="50" height="50" />
+  </a>
+  <a href="https://nestjs.com/" target="_blank" title="NestJS">
+    <img src="https://cdn.worldvectorlogo.com/logos/nestjs.svg" alt="NestJS" width="50" height="50" />
+  </a>
+  <a href="https://www.python.org/" target="_blank" title="Python">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Python" width="50" height="50" />
+  </a>
+  <a href="https://mixedbread.com/" target="_blank" title="Mixedbread">
+    <img src="https://via.placeholder.com/50x50?text=MB" alt="Mixedbread" width="50" height="50" />
+  </a>
+  <a href="https://numpy.org/" target="_blank" title="NumPy">
+    <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="NumPy" width="50" height="50" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="HTML" width="50" height="50" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="CSS">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="CSS" width="50" height="50" />
+  </a>
+  <a href="https://vercel.com/" target="_blank" title="Vercel">
+    <img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" alt="Vercel" width="50" height="50" />
+  </a>
+  <a href="https://nextjs.org/" target="_blank" title="Next.js">
+    <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" width="50" height="50" />
+  </a>
+  <a href="https://storybook.js.org/" target="_blank" title="Storybook">
+    <img src="https://cdn.worldvectorlogo.com/logos/storybook.svg" alt="Storybook" width="50" height="50" />
+  </a>
+  <a href="https://mui.com/" target="_blank" title="MUI">
+    <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="MUI" width="50" height="50" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" title="Tailwind CSS">
+    <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="Tailwind CSS" width="50" height="50" />
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank" title="AWS">
+    <img src="https://cdn-icons-png.flaticon.com/512/873/873120.png" alt="AWS" width="50" height="50" />
+  </a>
+  <a href="https://cloud.google.com/" target="_blank" title="Google Cloud">
+    <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" alt="Google Cloud" width="50" height="50" />
+  </a>
 </p>
+
 
 <h3> Connect with me! </h3>
 
